@@ -1,0 +1,73 @@
+.menu{
+    list-style:none;
+    font-family:fantasy;
+    right:30px;
+    position:fixed;
+    width:100%;
+    margin-top:0px;
+    background-color:transparent;
+    height: 50px;
+}
+
+.link{
+    float:left;
+    font-size: 25px;
+    padding:20px;
+    display:inline;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: none
+
+}
+
+.link:hover{
+   background:orange;
+   
+
+}
+
+a{
+   text-decoration: none;
+    
+}
+
+#mycarousel{
+    height:600px;
+}
+
+img{
+    width: 800px
+}
+
+.musk{
+    width:500px;
+    margin:20px;
+}
+
+.muskies{
+    align-content: space-around;
+    text-align: center;
+}
+
+#carousel-content{
+    font-size: 30px;
+}
+
+#home{
+    font-size: 22px;
+    font-family: inherit;
+    text-align: center;
+}
+
+#home img{
+    width: 400px; 
+     
+}
+
+#home span{
+    margin: 50px;
+}
+
+#subtitles{
+ margin-left: 70px   ;
+    margin-right: 70px   
+}
